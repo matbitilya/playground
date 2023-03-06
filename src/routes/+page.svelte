@@ -1,0 +1,1 @@
+<div class="w-full h-screen bg-black text-red-500">a</div>
